@@ -25,7 +25,6 @@ logs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # Virtual environment
 env/
