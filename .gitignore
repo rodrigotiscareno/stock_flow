@@ -22,6 +22,7 @@ logs/
 
 # Config
 *.ini
+.vscode
 
 # Jupyter Notebook
 .ipynb_checkpoints
